@@ -9,7 +9,7 @@ function App() {
   useEffect(() => {
     const loadApi =  () => {
 
-      let url = "http://www.colourlovers.com/api/palettes/random?format=json"
+      let url = "https://www.colourlovers.com/api/palettes/random?format=json"
 
     fetch(url, {
       headers: {
