@@ -1,0 +1,2 @@
+*{margin:0;padding:0}.App{display:flex;flex-direction:row;justify-content:center}h1{background-color:#fefefe;border-radius:4px;margin-top:8px;padding:2px;position:absolute}.column{min-height:100%;width:25%}.column,.container{align-items:center;display:flex;justify-content:center}.container{flex-direction:row;height:100vh;width:100%}.App .container .column strong{background-color:#fefefe;border-radius:4px;padding:2px}
+/*# sourceMappingURL=main.ef8da37c.css.map*/
